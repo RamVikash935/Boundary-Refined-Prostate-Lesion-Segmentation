@@ -70,12 +70,6 @@ Follow the steps which I have mentioned above
 
 ---
 
-## 📷 Qualitative Visualizations
-
-We provide qualitative comparisons with other baselines (U-Net, ProLesNet, nnUNet, etc.) and landmark predictions `/visuals`.
-
----
-
 ## 🤝 Contact
 
 If you find this work helpful or have questions:
