@@ -64,6 +64,10 @@ Follow the steps which I have mentioned above
 
 ---
 
+## 📷 Qualitative Visualizations
+![](figures/Counter_Best_case_contour.png)
+![](figures/Final_Zoomed_Best_case_contour.png)
+
 ---
 
 ## 📷 Qualitative Visualizations
