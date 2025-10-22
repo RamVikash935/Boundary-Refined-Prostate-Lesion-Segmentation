@@ -76,8 +76,6 @@ We provide qualitative comparisons with other baselines (U-Net, ProLesNet, nnUNe
 
 ---
 
----
-
 ## 🤝 Contact
 
 If you find this work helpful or have questions:
