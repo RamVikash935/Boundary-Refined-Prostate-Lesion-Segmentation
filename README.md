@@ -1,12 +1,3 @@
-Creating a clear and well-structured `README.md` file is **crucial for showcasing your EASAG-Net project on GitHub**, especially if you plan to share your work with the research community after your WACV submission.
-
----
-
-Here’s a **starter template** tailored specifically for your **EASAG-Net** (Edge-Aware Spatial Attention Gate Network for Prostate Lesion Segmentation):
-
----
-
-```markdown
 # Boundary-Refined Prostate Lesion Segmentation in T2-Weighted MRI via Learnable Edge-Aware Attention and Nested Output Fusion
 
 This repository contains the official PyTorch implementation of **Boundary-Refined Prostate Lesion Segmentation in T2-Weighted MRI via Learnable Edge-Aware Attention and Nested Output Fusion Paper**, a novel architecture designed for boundary-aware and efficient prostate lesion segmentation using only T2-weighted MRI. Our model incorporates:
@@ -86,8 +77,3 @@ If you find this work helpful or have questions:
 * ✉️ Email: [ramvikash11111@gmail.com]
 
 ---
-
----
-
-Would you like me to generate this as an actual `README.md` file with a download link or just keep it in editable format here? I can also help set up the folder structure and `requirements.txt` if needed.
-```
