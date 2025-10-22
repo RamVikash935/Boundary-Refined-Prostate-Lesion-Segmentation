@@ -36,8 +36,8 @@ This repository contains the official PyTorch implementation of **Boundary-Refin
 ---
 
 ## 📦 Model Architecture
-![](figures/Overall_architecture_diagram.drawio.pdf)
-![](figures/LEASAG.drawio.pdf)
+![](figures/Overall_architecture_diagram.pdf)
+![](figures/LEASAG.pdf)
 
 ## 🧪 Training Instructions
 
