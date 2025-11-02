@@ -30,7 +30,7 @@ This repository contains the official PyTorch implementation of **Boundary-Refin
 | Swin U-Net      | 19.05     | 23.22     | 31.10         | 20.32      |
 | nnFormer        | 23.81     | 21.03     | 34.16         | 22.29      |
 | ProLesNet       | 30.22     | 19.89     | 42.17         | 29.25      |
-| Ours (EASAG)    | **35.17** | **18.43** | **42.66**     | **35.18**  |
+| Ours Proposed Method    | **35.17** | **18.43** | **42.66**     | **35.18**  |
 
 
 ---
