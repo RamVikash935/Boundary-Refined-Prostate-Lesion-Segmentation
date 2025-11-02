@@ -7,7 +7,7 @@ This repository contains the official PyTorch implementation of **Boundary-Refin
 - Deeply supervised **nested** decoding scheme wherein **intermediate outputs at different scales are fused through a learnable fusion block**. By optimally combining multi-resolution predictions, this strategy enhances training convergence and produces a more robust final segmentation
 - **Single-modality training (T2W only)** suited for real-world clinical constraints
 
-> 📢 This work has been submitted to **CVIP 2025**.
+> 📢 This work has been accepted to **CVIP 2025**.
 
 ---
 
