@@ -65,7 +65,7 @@ Follow the steps which I have mentioned above
 ---
 
 ## 📷 Qualitative Visualizations
-![](figures/Counter_Best_case_contour.png)
+![](figures/Original_paper_full_contour.png)
 ![](figures/Final_Zoomed_Best_case_contour.png)
 
 ---
